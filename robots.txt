@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanishqchauhan3.github.io/sitemap.xml
